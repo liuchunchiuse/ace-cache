@@ -1,4 +1,5 @@
 # ace-cache
+在下只是引用修改源码进行版本适配工作,其他都是原著
 基于spring boot上的注解缓存，自带轻量级缓存管理页面。<br>
 @Cache比spring cache更轻量的缓存，支持单个缓存设置过期时间，可以根据前缀移除缓存。<br>
 采用fastjson序列化与反序列化，以json串存于缓存之中。<br>
